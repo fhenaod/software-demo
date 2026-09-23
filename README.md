@@ -2,7 +2,7 @@
 
 Analysis tools for biodiversity research data.
 
-## Licence
+## License
 This project is licensed under the BSD3-Clause License- see [LICENSE](LICENSE) file for details.
 
 > **Note for learners:** this is the *starting state* for the
